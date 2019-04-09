@@ -1,6 +1,6 @@
 # MaterialStepperView
 
-[![](https://jitpack.io/v/moe.feng/MaterialStepperView.svg)](https://jitpack.io/#moe.feng/MaterialStepperView)
+[![](https://jitpack.io/v/Agorise/materialstepperview.svg)](https://jitpack.io/#Agorise/materialstepperview)
 
 [Material Design Stepper](https://material.io/guidelines/components/steppers.html) Widgets on Android (SDK 17+)
 
