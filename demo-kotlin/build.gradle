@@ -9,7 +9,7 @@ android {
 		targetSdkVersion rootProject.ext.targetSdkVersion
 		versionCode rootProject.ext.versionCode
 		versionName rootProject.ext.versionName
-		applicationId "moe.feng.common.stepperview.demo"
+		applicationId "cy.agorise.stepperview.demo"
 
 		testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 	}
@@ -37,6 +37,5 @@ dependencies {
 	implementation "androidx.appcompat:appcompat:$supportLibraryVersion"
 	implementation "com.google.android.material:material:$supportLibraryVersion"
 	implementation "androidx.browser:browser:$supportLibraryVersion"
-	implementation 'moe.feng:AlipayZeroSdk:1.1'
 	implementation project(':library')
 }
